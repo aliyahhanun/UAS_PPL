@@ -18,7 +18,7 @@ describe('empty spec', () => {
     cy.get('input[name="nama"]').type('Hellboy')
     cy.get(':nth-child(4) > :nth-child(2) > #kontingen').type('Apolo Barus')
     cy.wait(3000)
-    cy.get(':nth-child(5) > td > .btn').click()
+    cy.get('.form-horizontal > table > tbody > :nth-child(5) > td > .btn').click()
     cy.wait(3000)
 
     // Input Jadwal Ganda
@@ -28,7 +28,7 @@ describe('empty spec', () => {
     cy.get(':nth-child(3) > .box > .box-content > .form-horizontal > table > tbody > :nth-child(4) > :nth-child(2) > #nama2').type('Komet')
     cy.get(':nth-child(5) > :nth-child(2) > #kontingen').type('Apolo Barus')
     cy.wait(3000)
-    cy.get(':nth-child(6) > td > .btn').click()
+    cy.get('.form-horizontal > table > tbody > :nth-child(6) > td > .btn').click()
     cy.wait(3000)
 
     // Input Jadwal Regu
@@ -39,7 +39,7 @@ describe('empty spec', () => {
     cy.get('input[name="nama3"]').type('Petruk')
     cy.get(':nth-child(6) > :nth-child(2) > #kontingen').type('Apolo Barus')
     cy.wait(3000)
-    cy.get(':nth-child(7) > td > .btn').click()
+    cy.get('.form-horizontal > table > tbody > :nth-child(7) > td > .btn').click()
     cy.wait(3000)
 
     // Mencari Data Jadwal Tanding Berdasarkan Kategori
