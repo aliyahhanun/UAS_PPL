@@ -1,0 +1,32 @@
+<br />
+<b>Notice</b>:  Undefined index: golongan in <b>C:\xampp\htdocs\skordigital\backend\admin_do_rekap_tgr.php</b> on line <b>13</b><br />
+
+<center><h1>REKAP DATA PESERTA TGR</h1>
+<h2>
+	GANDA</h2>
+</center>
+	<table border="1">
+		<thead>
+		<tr bgcolor="#99CCFF">
+			<td>No.</td>
+			<td>Nama Lengkap</td>
+			<td>Jenis Kelamin</td>
+			<td>Tempat Lahir</td>
+			<td>Tanggal Lahir</td>
+			<td>TB</td>
+			<td>BB</td>
+			<td>Keterangan</td>
+			<td>Kontingen</td>
+			<td>Kategori</td>
+			<td>ID Pasangan</td>
+			<td>Golongan</td>
+			<td>Biaya Registrasi</td>
+		</tr>
+		</thead>
+			</table>
+
+	<p>Generate data : Sebanyak 0 Peserta. Yang telah melunasi biaya pendaftaran sebanyak 0 Peserta. </p>
+
+	
+<div id="footer">
+	<p>Copyleft 2016  - 2022 IPSI Kabupaten Tangerang </p>

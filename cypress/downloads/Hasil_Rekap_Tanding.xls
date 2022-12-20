@@ -1,0 +1,28 @@
+
+<center><h1>REKAP DATA PESERTA TANDING</h1>
+<h2>
+	(DEWASA)</h2>
+</center>
+
+	<table border="1">
+	<thead>
+		<tr bgcolor="#99CCFF">
+			<td>No.</td>
+			<td>Nama</td>
+			<td>Jenis Kelamin</td>
+			<td>Tempat Lahir</td>
+			<td>Tanggal Lahir</td>
+			<td>TB</td>
+			<td>BB</td>
+			<td>Keterangan</td>
+			<td>Kontingen</td>
+			<td>Kelas Tanding</td>
+			<td>Golongan</td>
+			<td>Biaya Registrasi</td>
+		</tr>
+	</thead>
+			</table>
+
+	<p>Generate data : Sebanyak 0 Peserta. Yang telah melunasi biaya pendaftaran sebanyak 0 Peserta. </p>
+	
+	<p>Copyleft 2016  - 2022 IPSI Kabupaten Tangerang </p>
